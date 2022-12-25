@@ -35,29 +35,44 @@
 1. Вы можете посмотреть услуги, отредактировать их, даже записать клиента.
 2. Посмотреть ближайшие записи на сегодня и завтра.
 В режиме админа также можно фильтровать списки услуг.
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b1.png" alt="Pull" />
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b2.png" alt="Pull" />
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b3.png" alt="Pull" />
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b4.png" alt="Pull" />
 
 Зайдем в приложение как администратор. Там нам нужно нажать на кнопку "Услуги".
 Нажав эту кнопку, перед нами откроется список услуг с панелью управления.
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b5.png" alt="Pull" />
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b6.png" alt="Pull" />
 
 Теперь нам нужно посмотреть как работает поиск.
 Вбиваем в поиск несколько букв, по описанию приложение поймёт, что нам нужно и предоставит определенный список.
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b7.png" alt="Pull" />
 
 Посмотрим на фильтр скидок.
 Выбирем из выпадающего списка нужное нам значение. Теперь нам отображаются скидки определенного диапазона.
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b8.png" alt="Pull" />
 
 Посмотрим на сортировку.
 Выбирем например "по возрастанию". Список должен быть от меньшего к большему.
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b9.png" alt="Pull" />
 
 Также мы можем добавить новую услугу.
 Для этого нажмём на кнопку "Добавить" в панели инструментов. Там откроется новая страница, заполняем данными. При сохранении получим новую услугу.
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b10.png" alt="Pull" />
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b11.png" alt="Pull" />
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b12.png" alt="Pull" />
 
 Теперь нам нужно записать клиентов.
 Нажмем на любую кнопку "Записать". Откроется страницы для записи клиентов. Указываем клиента, услугу, дату и время. Можно и комментарий добавить.
 Клиент записан. Его можно будет посмотреть, если его запись будет сегодня или завтра.
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b13.png" alt="Pull" />
 
 Теперь нам нужно узнать о ближайших записях.
 Нажимаем в главном окне "Ближайшие записи", где перед нами будет список клиентов и услуг на завтра и на сегодня.
 Кстати, список обновляется каждые 30 секунд.
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b14.png" alt="Pull" />
+<img src="https://github.com/dahichnero/BeautySalon/blob/main/b15.png" alt="Pull" />
 
 ## Автор
 
